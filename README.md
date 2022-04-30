@@ -26,5 +26,5 @@
 <div align="center">
   <h3>More Info</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=PoorCatCocoa&show_icons=true&hide_title=true&count_private=true" alt="img" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoorCatCocoa&langs_count=12&count_private=true&layout=compact&include_all_commits=true&card_width=450" alt="img" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoorCatCocoa&langs_count=10&count_private=true&layout=compact&include_all_commits=true&card_width=450" alt="img" />
 </div>
