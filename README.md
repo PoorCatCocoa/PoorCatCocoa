@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Guanjie Wang (PoorCatCocoa) 👋</h1>
+<h1 align="center">Hi there, I'm Guanjie Wang 👋</h1>
 
 <h3 align="center">🎓 BSc (Hons) Computer Science @ University of Glasgow (Level 3 Honours)</h3>
 <p align="center">
@@ -44,17 +44,9 @@
   </p>
 </div>
 
-<!-- 隐藏 Steam 链接，防止求职时 HR 或教授点进去，源码中保留备份：
+<!-- 隐藏 Steam 链接备份：
 <div align="center">
   <h3>联系 / Contact</h3>
   <a href="https://steamcommunity.com/profiles/76561198402905227/"><img src="https://img.shields.io/badge/steam-PoorCatCocoa-lightgrey" alt="Badge" /></a>
 </div>
 -->
-
----
-
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=PoorCatCocoa&show_icons=true&hide_title=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoorCatCocoa&langs_count=8&count_private=true&layout=compact&include_all_commits=true" height="165" alt="Top Languages" />
-</div>
